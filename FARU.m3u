@@ -165,3 +165,11 @@ https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8
 #EXTINF:-1, PTV
 https://crichd.onlinetvbd.com/m3u8.php/ptvpk.m3u8
+#EXTINF:-1,TenSport HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1,Dubai Sport3 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1,PSJtv
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+#EXTINF:-1,RMtv
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
